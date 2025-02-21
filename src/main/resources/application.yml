@@ -25,6 +25,6 @@ eureka:
     fetch-register: true
     registry-fetch-interval-seconds: 5
     service-url:
-      defaultZone: http://localhost:8296/eureka
-      #defaultZone: http://team5-eureka-server:8296/eureka
+      # defaultZone: http://localhost:8296/eureka
+      defaultZone: http://team5-eureka-server:8296/eureka
 
